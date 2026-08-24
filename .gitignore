@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# MLflow — local server state, not source
+mlruns/
+mlartifacts/
+mlflow.db
+mlflow.log
+
+# Large data caches — never commit
+mnist_cache.npz
+*.zip
+
+# Q3 raw images (only the CSV manifest is versioned)
+q3/data/
+
+# DVC credentials — MUST NOT be committed
+.dvc/config.local
