@@ -3,7 +3,7 @@
 Raghava · DA24B021 · AIOps Module 1
 
 I used an AI assistant Claude while working on this assignment. Below is what it was
-used for and what it was not.
+used for.
 
 ## Where AI was used
 
