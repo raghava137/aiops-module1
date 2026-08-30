@@ -15,7 +15,7 @@ The written report covering all four questions is
 ```
 .
 ├── da3408_report_1.pdf          written report, all four questions
-├── .dvc/                        DVC config (S3 remote; credentials not committed)
+├── .dvc/                        DVC config (S3 remote)
 ├── q2/                          MLflow experiment tracking
 │   ├── MLFLOW.ipynb             MNIST + MLPClassifier, six-run sweep
 │   ├── logging_snippet.py       the log_param / log_metric code
